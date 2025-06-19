@@ -1,7 +1,7 @@
 
 <p><small>Best View in <a href="https://github.com/settings/appearance">Dark Mode</a> (Recommended)</small></p><br/>
 
-<img src="https://socialify.git.ci/Hunterdii/Smart-AI-Resume-Analyzer/image?custom_description=6th+Sem+Final+Year+Project+at+Parul+University+%282024-2025%29&description=1&font=Bitter&language=1&name=1&pattern=Circuit+Board&stargazers=1&theme=Dark&pattern=Transparent" alt="Smart-AI-Resume-Analyzer" width="1150" />
+<img src="https://socialify.git.ci/Akul Yadav/Smart-AI-Resume-Analyzer/image?custom_description=6th+Sem+Final+Year+Project+at+Parul+University+%282024-2025%29&description=1&font=Bitter&language=1&name=1&pattern=Circuit+Board&stargazers=1&theme=Dark&pattern=Transparent" alt="Smart-AI-Resume-Analyzer" width="1150" />
 
 <div align="center">
 
@@ -33,13 +33,13 @@
      </thead>
     <tbody>
          <tr>
-            <td><img alt="Stars" src="https://img.shields.io/github/stars/Hunterdii/Smart-AI-Resume-Analyzer?style=flat&logo=github"/></td>
-            <td><img alt="Forks" src="https://img.shields.io/github/forks/Hunterdii/Smart-AI-Resume-Analyzer?style=flat&logo=github"/></td>
-            <td><img alt="Issues" src="https://img.shields.io/github/issues/Hunterdii/Smart-AI-Resume-Analyzer?style=flat&logo=github"/></td>
-            <td><img alt="Repo Size" src="https://img.shields.io/github/repo-size/Hunterdii/Smart-AI-Resume-Analyzer?style=flat&logo=github"/></td>
-            <td><img alt="Open PRs" src="https://img.shields.io/github/issues-pr/Hunterdii/Smart-AI-Resume-Analyzer?style=flat&logo=github"/></td>
-            <td><img alt="Closed PRs" src="https://img.shields.io/github/issues-pr-closed/Hunterdii/Smart-AI-Resume-Analyzer?style=flat&color=critical&logo=github"/></td>
-            <td><img alt="Contributors" src="https://img.shields.io/github/contributors/Hunterdii/Smart-AI-Resume-Analyzer?style=flat&logo=github"/></td>
+            <td><img alt="Stars" src="https://img.shields.io/github/stars/Akul Yadav/Smart-AI-Resume-Analyzer?style=flat&logo=github"/></td>
+            <td><img alt="Forks" src="https://img.shields.io/github/forks/Akul Yadav/Smart-AI-Resume-Analyzer?style=flat&logo=github"/></td>
+            <td><img alt="Issues" src="https://img.shields.io/github/issues/Akul Yadav/Smart-AI-Resume-Analyzer?style=flat&logo=github"/></td>
+            <td><img alt="Repo Size" src="https://img.shields.io/github/repo-size/Akul Yadav/Smart-AI-Resume-Analyzer?style=flat&logo=github"/></td>
+            <td><img alt="Open PRs" src="https://img.shields.io/github/issues-pr/Akul Yadav/Smart-AI-Resume-Analyzer?style=flat&logo=github"/></td>
+            <td><img alt="Closed PRs" src="https://img.shields.io/github/issues-pr-closed/Akul Yadav/Smart-AI-Resume-Analyzer?style=flat&color=critical&logo=github"/></td>
+            <td><img alt="Contributors" src="https://img.shields.io/github/contributors/Akul Yadav/Smart-AI-Resume-Analyzer?style=flat&logo=github"/></td>
             <td><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" alt="open source"/></td>
         </tr>
     </tbody>
@@ -73,9 +73,9 @@
 
 - [![AI Models Badge](https://img.shields.io/badge/AI%20Models-Documentation-purple?style=for-the-badge&logo=openai&logoColor=white)](AI_MODELS.md)  
 
-- [![Contribution Guide Badge](https://img.shields.io/badge/Contribution%20Guide-Read%20Here-brightgreen?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hunterdii/Smart-AI-Resume-Analyzer/blob/main/.github/CONTRIBUTING.md)   
+- [![Contribution Guide Badge](https://img.shields.io/badge/Contribution%20Guide-Read%20Here-brightgreen?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akul Yadav/Smart-AI-Resume-Analyzer/blob/main/.github/CONTRIBUTING.md)   
 
-- [![Support Badge](https://img.shields.io/badge/Support%20%26%20Feedback-Discussion-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hunterdii/Smart-AI-Resume-Analyzer/discussions)  
+- [![Support Badge](https://img.shields.io/badge/Support%20%26%20Feedback-Discussion-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akul Yadav/Smart-AI-Resume-Analyzer/discussions)  
   
 ## <img src="https://github.com/user-attachments/assets/a6e4d77f-56d6-4aa8-8278-0f5a18ef5eb9" width="24px"> **What Makes Us Different?**  
 
@@ -97,7 +97,7 @@
    - ✍️ Content Enhancement Tips  
    - 🌟 Industry-Specific Insights  
 
-**🎉 Why Use Smart Resume AI?**  
+**🎉 Why Use Resum.AI?**  
 Get real-time feedback, boost your resume's impact, and maximize your chances of getting shortlisted—all with a sleek and intuitive interface.  
 
 ## <img src="https://github.com/user-attachments/assets/e5ac1371-6ac4-48b6-b95c-5ef9afaf1353" width="30"> **Live Demo**  
@@ -168,7 +168,7 @@ Get real-time feedback, boost your resume's impact, and maximize your chances of
    - Export your resume in **PDF** format, ready for submission.  This project has evolved with significant enhancements to its resume analysis capabilities:
 
 
-Follow these steps to run Smart Resume AI:  
+Follow these steps to run Resum.AI:  
 
 #### **Setup Instructions** 🛠️
 
@@ -179,7 +179,7 @@ Follow the steps below to set up and run the **Smart AI Resume Analyzer** on you
 Open a terminal and run:
 
    ```bash
-   git clone https://github.com/Hunterdii/resume-analyzer-ai.git
+   git clone https://github.com/Akul Yadav/resume-analyzer-ai.git
    cd Smart-AI-Resume-Analyzer
    ```
 
@@ -384,7 +384,7 @@ This is a **known issue with the resume builder feature**, where the autofill be
 We're actively working on a permanent fix to ensure your experience is seamless. Thank you for your understanding and support! 🙏  
 
 
-## 🎯 **Why Choose Smart Resume AI?**  
+## 🎯 **Why Choose Resum.AI?**  
 
 ✨ **Tailored for You**  
 Your resume is optimized for the job you're aiming for, using role-specific insights.  
@@ -406,7 +406,7 @@ Join the mission! Here's how:
 2. Create a new branch for your feature: `git checkout -b feature-name`.  
 3. Push changes and submit a Pull Request.  
 
-##  <img src="https://github.com/user-attachments/assets/5b3cb883-6652-4525-a352-b4b9a3501e07" width = 35px height = 35px> **Why Users Love Smart Resume AI**  
+##  <img src="https://github.com/user-attachments/assets/5b3cb883-6652-4525-a352-b4b9a3501e07" width = 35px height = 35px> **Why Users Love Resum.AI**  
 
 - **Saves Time:** Create a stunning resume in minutes.  
 - **Increases Job Opportunities:** Tailor your resume to any role.  
@@ -586,16 +586,16 @@ Join the mission! Here's how:
 
 ## 📄 **License**  
 
-This project is licensed under the [MIT License](https://github.com/Hunterdii/resume-analyzer-ai/blob/main/LICENSE).  
+This project is licensed under the [MIT License](https://github.com/Akul Yadav/resume-analyzer-ai/blob/main/LICENSE).  
 
 
 ## 🌟 **GitHub Repo**  
 
-Explore the code, contribute, or drop a <img src="https://github.com/user-attachments/assets/35f6838c-52f5-4e48-8a98-c5203f8c57e3" style="width:20px; color: #FFD700" alt="Star GIF"> : [Smart Resume AI Repository](https://github.com/Hunterdii/resume-analyzer-ai)  
+Explore the code, contribute, or drop a <img src="https://github.com/user-attachments/assets/35f6838c-52f5-4e48-8a98-c5203f8c57e3" style="width:20px; color: #FFD700" alt="Star GIF"> : [Resum.AI Repository](https://github.com/Akul Yadav/resume-analyzer-ai)  
 
 ## 🛡️ Maintainer  
 
-> **_This repository is maintained by [Hunterdii](https://github.com/Hunterdii)._**  
+> **_This repository is maintained by [Akul Yadav](https://github.com/Akul Yadav)._**  
 > Have suggestions? Feel free to reach out to [me via email](mailto:het8185@gmail.com). 📧
 
 
@@ -611,8 +611,8 @@ If you appreciate this repository and want to show your support, you can do so t
 
 | ❤️ **Platform**        | 🌟 **Support Link**                                                                                                                                        |
 |------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **GitHub Sponsors**    | [![GitHub Sponsors](https://img.shields.io/badge/GitHub-Sponsor-red?style=flat-square&logo=github)](https://github.com/sponsors/Hunterdii)                  |
+| **GitHub Sponsors**    | [![GitHub Sponsors](https://img.shields.io/badge/GitHub-Sponsor-red?style=flat-square&logo=github)](https://github.com/sponsors/Akul Yadav)                  |
 | **Buy Me a Coffee**    | [![Buy Me a Coffee](https://img.shields.io/badge/☕-Buy%20Me%20a%20Coffee-orange?style=flat-square)](https://www.buymeacoffee.com/het81857)                 |
-| **Thanks.dev**         | [![Thanks.dev](https://img.shields.io/badge/💜-Thanks.dev-purple?style=flat-square)](https://thanks.dev/Hunterdii)                                          |
+| **Thanks.dev**         | [![Thanks.dev](https://img.shields.io/badge/💜-Thanks.dev-purple?style=flat-square)](https://thanks.dev/Akul Yadav)                                          |
 
 **Thank you for your support! Every bit helps keep this repository going.** 🌈✨
