@@ -1,6 +1,4 @@
-﻿"""
-Resum.AI - Fixed HTML Rendering Issues (Using Streamlit Native Components)
-"""
+
 import time
 from PIL import Image
 from jobs.job_search import render_job_search
@@ -170,6 +168,11 @@ class ModernResumeApp:
             border: 1px solid rgba(99, 102, 241, 0.2);
             position: relative;
             overflow: hidden;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
         }
         
         .hero-container::before {
