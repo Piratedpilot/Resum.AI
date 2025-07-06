@@ -16,23 +16,8 @@
 ## 👨‍💻 Developed By
 
 **Akul Yadav**  
-📧 Contact: akulyadac1959@gmail.com  
+📧 Contact: akulyadav1959@gmail.com  
 🌐 GitHub: [Akul-Yadav](https://github.com/Piratedpilot)
-
----
-
-## 📸 Screenshots
-
-### 🔍 Resume Upload & Role Selection
-![Upload Screenshot]()
-
-### 📊 AI Analysis Report
-![Analysis Screenshot](screenshots/analysis.png)
-
-### 📥 PDF Report Download
-![PDF Screenshot](screenshots/pdf_download.png)
-
-> _📝 Add your screenshots inside a folder named `/screenshots` in your repo._
 
 ---
 
