@@ -170,11 +170,6 @@ class ModernResumeApp:
             border: 1px solid rgba(99, 102, 241, 0.2);
             position: relative;
             overflow: hidden;
-
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
         }
         
         .hero-container::before {
@@ -979,21 +974,6 @@ class ModernResumeApp:
         
         st.markdown("</div>", unsafe_allow_html=True)
         
-        # Download PDF report
-        if st.button("📊 Download PDF Report", use_container_width=True):
-            pdf_buffer = self.ai_analyzer.generate_pdf_report(
-                analysis_result=analysis,
-                candidate_name="User",
-                job_role=role
-            )
-            
-            if pdf_buffer:
-                st.download_button(
-                    label="📥 Download Report",
-                    data=pdf_buffer,
-                    file_name=f"ai_resume_analysis_{datetime.datetime.now().strftime('%Y%m%d_%H%M')}.pdf",
-                    mime="application/pdf"
-                )
 
     def render_score_card(self, title, score, icon):
         """Render a score card component"""
@@ -1062,20 +1042,22 @@ class ModernResumeApp:
     def format_ai_analysis(self, analysis_text):
         """Format AI analysis text with better styling"""
         # Replace section headers with styled versions
+        
         sections = {
-            "## Overall Assessment": "🎯 Overall Assessment",
-            "## Professional Profile Analysis": "👤 Professional Profile Analysis", 
-            "## Skills Analysis": "🛠️ Skills Analysis",
-            "## Experience Analysis": "💼 Experience Analysis",
-            "## Education Analysis": "🎓 Education Analysis",
-            "## Key Strengths": "✅ Key Strengths",
-            "## Areas for Improvement": "🎯 Areas for Improvement",
-            "## ATS Optimization Assessment": "🤖 ATS Optimization Assessment",
-            "## Recommended Courses": "📚 Recommended Courses",
-            "## Resume Score": "⭐ Resume Score",
-            "## Role Alignment Analysis": "🎯 Role Alignment Analysis",
-            "## Job Match Analysis": "🤝 Job Match Analysis"
+                "Overall Assessment"
+                "## Professional Profile Analysis": "<h3>👤 Professional Profile Analysis</h3>", 
+                "## Skills Analysis"
+                "## Experience Analysis"
+                "## Education Analysis"
+                "## Key Strengths"
+                "## Areas for Improvement"
+                "## ATS Optimization Assessment"
+                "## Recommended Courses"
+                "## Resume Score"
+                "## Role Alignment Analysis"
+"## Job Match Analysis": "<h3>🎯 Job Match Analysis</h3>"
         }
+        
         
         formatted_text = analysis_text
         for old_header, new_header in sections.items():
@@ -1554,7 +1536,7 @@ class ModernResumeApp:
         with col2:
             # GitHub star button
             if st.button("⭐ Star this project on GitHub", use_container_width=True, type="primary"):
-                st.markdown("[Visit GitHub Repository](https://github.com/Akul-Yadav/Smart-AI-Resume-Analyzer)")
+                st.markdown("[Visit GitHub Repository](https://github.com/Piratedpilot/Resum.AI)")
             
             # Footer text using native Streamlit
             st.markdown("---")
